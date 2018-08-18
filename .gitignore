@@ -1,3 +1,7 @@
+# Ignore all "Solved" directories that haven't already been committed into the repo
+Solved/
+
+
 # nbgrader database file
 gradebook.db
 
