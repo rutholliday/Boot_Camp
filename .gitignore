@@ -1,6 +1,11 @@
 # Ignore all "Solved" directories that haven't already been committed into the repo
 Solved/
 
+# Ignore all "LessonPlan.md" files
+LessonPlan.md
+
+# Ignore all timetracker files
+TimeTracker.xlsx
 
 # nbgrader database file
 gradebook.db
