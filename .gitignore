@@ -1,10 +1,10 @@
 # Ignore all "Solved" directories that haven't already been committed into the repo
-Solved/
+# Solved/
 
 # Ignore all "Images" directories that haven't been committeed into the repo, only from Activities directories
-*/Tuesday/Images/
-*/Thursday/Images/
-*/Saturday/Images/
+# */Tuesday/Images/
+# */Thursday/Images/
+# */Saturday/Images/
 
 # Ignore all "LessonPlan.md" files
 LessonPlan.md
